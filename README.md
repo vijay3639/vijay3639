@@ -16,18 +16,13 @@
 
 ---
 
-## ⭐ GitHub Stars
-<p align="left">
-  <img src="https://img.shields.io/github/stars/stacksimplify?label=Stars&logo=github&color=FFD700&style=for-the-badge" alt="GitHub Stars"/>
-</p>
 
 ---
 
 ## 📫 Connect With Me
-- 🌐 [Website](https://stacksimplify.com/)
-- 📧 [Email](mailto:dkalyanreddy@gmail.com)
-- 🎥 [YouTube](http://www.youtube.com/stacksimplify?sub_confirmation=1)
-- 💼 [LinkedIn](http://www.linkedin.com/in/kalyan-reddy-daida)
+- 🌐 [Website]
+- 📧 [Email](mailto:vijay11532@gmail.com)
+
 
 
 ---
