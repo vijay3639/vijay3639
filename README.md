@@ -1,18 +1,16 @@
 # 👋 Hey, I'm Vijay!
 
-🚀 Cloud | DevOps | Kubernetes | Terraform 
+🚀 Cloud | DevOps | Kubernetes
 
 ---
 
 ## 🔥 About Me
-- 🛠️ I specialize in **AWS, GCP, Kubernetes, Docker, Terraform** and more
-- 📚 Passionate about helping you **build real-world cloud projects**
-- ⚡ Always learning, always building!
+- 🛠️ I specialize in **AWS, GCP, DevOps** 
 
 ---
 
 ## ⚡ Tech Stack
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,linux,githubactions,python,java,spring,ansible,prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,terraform,splunk,linux,github,ansible,prometheus,grafana" />
 
 ---
 
@@ -20,7 +18,6 @@
 ---
 
 ## 📫 Connect With Me
-- 🌐 [Website]
 - 📧 [Email](mailto:vijay11532@gmail.com)
 
 
