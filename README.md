@@ -24,9 +24,6 @@
 
 ---
 
-## ✨ Quote I Live By
-> "**Simplify everything you build, empower everyone you teach.**"
-
 ---
 
 <!-- 🐍 Special GitHub Contribution Snake (Optional Fancy Stuff) -->
