@@ -10,7 +10,7 @@
 ---
 
 ## ⚡ Tech Stack
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,terraform,splunk,linux,github,ansible,prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,terraform,splunk,maven,sonarqube,owasp,trivy,linux,github,ansible,prometheus,grafana" />
 
 ---
 
