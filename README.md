@@ -5,12 +5,12 @@
 ---
 
 ## 🔥 About Me
-- 🛠️ I specialize in **AWS, GCP, DevOps** 
+- 🛠️ I specialize in **AWS, AZURE, GCP, DevOps** 
 
 ---
 
 ## ⚡ Tech Stack
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,terraform,maven,linux,github,ansible,prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,terraform,maven,linux,github,ansible,prometheus,grafana" />
 
 ---
 
